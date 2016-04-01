@@ -1,0 +1,12 @@
+[submodule "servers/fedora-stack-workdev"]
+	path = servers/fedora-stack-workdev
+	url = https://github.com/WSULib/fedora-stack-workdev
+[submodule "servers/fedora-stack-prod"]
+	path = servers/fedora-stack-prod
+	url = https://github.com/WSULib/fedora-stack-prod
+[submodule "servers/fedora-stack-storage"]
+	path = servers/fedora-stack-storage
+	url = https://github.com/WSULib/fedora-stack-storage
+[submodule "servers/archivematica"]
+	path = servers/archivematica
+	url = https://github.com/WSULib/archivematica
