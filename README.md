@@ -1,4 +1,4 @@
-# server_infrastructure
+# WSUDOR_server_infrastructure
 Umbrella Repository for WSUDOR Digital Collections Infrastructure
 Includes
  * virtual machine (vagrant) builds for servers
